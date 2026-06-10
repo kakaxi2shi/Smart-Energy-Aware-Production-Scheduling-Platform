@@ -88,10 +88,10 @@
   <table border="0" style="border-collapse: collapse; margin: 0 auto; text-align: center; width: 40%; max-width: 900px;">
     <tr>
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
-        <img src="./images/20260610165812_180_223.jpg" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
+        <img src="./images/20260610165812_180_223.jpg" width="70%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
-        <img src="./images/20260610212103_182_223.jpg" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">      
+        <img src="./images/20260610212103_182_223.jpg" width="70%" style="border-radius: 4px; display: block; margin: 0 auto;">      
       </td>
     </tr>
   </table>
