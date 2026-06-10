@@ -85,7 +85,7 @@
 💡 **具体合作细节与费用详聊** 。如果您需要针对贵司进行定制化的算法论证或 PoC 测试，欢迎随时与我们建立联系 ！
 
 <div align="center">
-  <table border="0" style="border-collapse: collapse; margin: 0 auto; text-align: center; width: 30%; max-width: 600px;">
+  <table border="0" style="border-collapse: collapse; margin: 0 auto; text-align: center; width: 30%; max-width: 400px;">
     <tr>
       <td style="width: 20%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
         <img src="./images/20260610165812_180_223.jpg" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
