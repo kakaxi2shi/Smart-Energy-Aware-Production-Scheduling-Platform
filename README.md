@@ -12,14 +12,12 @@
         <img src="./images/ScreenShot_2026-06-09_214358_867.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
     </tr>
-    <tr>
-      <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
+     <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
         <img src="./images/ScreenShot_2026-06-09_214418_007.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
         <img src="./images/ScreenShot_2026-06-09_214431_574.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
-    </tr>
   </table>
 </div>
 ...
