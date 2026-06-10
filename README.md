@@ -6,25 +6,22 @@
   <table border="0" style="border-collapse: collapse; margin: 0 auto; text-align: center; width: 100%; max-width: 900px;">
     <tr>
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
-        <img src="[img_goods]" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
+        <img src="./images/ScreenShot_2026-06-09_214341_943.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
-        <img src="[img_route]" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
+        <img src="./images/ScreenShot_2026-06-09_214358_867.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
+        <img src="./images/ScreenShot_2026-06-09_214418_007.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
-        <img src="[img_topology]" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
-      </td>
-      <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
-        <img src="[img_menu]" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
+        <img src="./images/ScreenShot_2026-06-09_214431_574.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
     </tr>
   </table>
 </div>
-
-[img_goods]: ./images/ScreenShot_2026-06-09_214341_943.png
-[img_route]: ./images/ScreenShot_2026-06-09_214358_867.png
-[img_topology]: ./images/ScreenShot_2026-06-09_214418_007.png
-[img_menu]: ./images/ScreenShot_2026-06-09_214431_574.png
 ...
 
 ## **🧬 核心能力**
@@ -88,14 +85,13 @@
 ## **💬 联系我们**
 
 💡 **具体合作细节与费用详聊** 。如果您需要针对贵司进行定制化的算法论证或 PoC 测试，欢迎随时与我们建立联系 ！
+
 <div align="center">
   <table border="0" style="border-collapse: collapse; margin: 0 auto; text-align: center; width: 100%; max-width: 900px;">
     <tr>
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
-        <img src="[img_scan]" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
+        <img src="./images/20260610160406_179_223.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
     </tr>
   </table>
 </div>
-
-[img_scan]: ./images/20260610160406_179_223.png
