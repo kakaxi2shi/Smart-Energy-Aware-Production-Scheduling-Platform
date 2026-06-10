@@ -11,13 +11,13 @@
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
         <img src="./images/ScreenShot_2026-06-09_214358_867.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
-    </tr>
      <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
         <img src="./images/ScreenShot_2026-06-09_214418_007.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
       <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
         <img src="./images/ScreenShot_2026-06-09_214431_574.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
       </td>
+    </tr>
   </table>
 </div>
 ...
@@ -86,10 +86,6 @@
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; margin: 0 auto; text-align: center; width: 100%; max-width: 900px;">
-    <tr>
-      <td style="width: 50%; padding: 12px; border: none; text-align: center; vertical-align: middle;">
-        <img src="./images/20260610160406_179_223.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
-      </td>
-    </tr>
+    <img src="./images/20260610160406_179_223.png" width="100%" style="border-radius: 4px; display: block; margin: 0 auto;">
   </table>
 </div>
