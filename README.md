@@ -86,6 +86,6 @@
 
 <div align="center">
   <table border="0" style="border-collapse: collapse; margin: 0 auto; text-align: center; width: 30%; max-width: 900px;">
-    <img src="./images/20260610160406_179_223.jpg" width="30%" style="border-radius: 4px; display: block; margin: 0 auto;">
+    <img src="./images/20260610165812_180_223.jpg" width="30%" style="border-radius: 4px; display: block; margin: 0 auto;">
   </table>
 </div>
