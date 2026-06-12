@@ -1,5 +1,10 @@
 # **⚡ Smart Energy-Aware Production Scheduling Platform**
 
+<div align="center">
+  <a href="./README.md"><img src="https://img.shields.io/badge/Language-中文-blue" alt="中文"></a>
+  <a href="./README.en.md"><img src="https://img.shields.io/badge/Language-English-blue" alt="English"></a>
+</div>
+
 这是一个针对**工业调度、综合能源场景**以及复杂制造工艺约束打造的下一代智能高级计划与排程算法引擎平台。系统采用前置机器学习预测与后置运筹优化多阶段耦合的架构 ，在最大化生产效益的同时，平抑尖峰用电并满足双碳约束 。
 
 <div align="center">
